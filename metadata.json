@@ -1,0 +1,6 @@
+{
+  "name": "WA Pairing Code",
+  "description": "Generate a WhatsApp pairing code to link your account without scanning a QR code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
